@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+.containers {
+    display: flex;
+    flex-direction: row;
+}
+
+.suggest {
+    justify-content: flex-start;
+    margin-right: 250px;
+}
